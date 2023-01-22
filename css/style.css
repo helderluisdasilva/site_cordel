@@ -54,7 +54,7 @@ main p{
     background-size:cover;
     background-position: right middle;
     background-attachment:fixed;
-    padding:4vw;
+    padding:16vw 4vw;
 }
 
 #bg_imagem1 p, #bg_imagem2 p{

@@ -52,7 +52,7 @@ main p{
 #bg_imagem1, #bg_imagem2{
     background-repeat: no-repeat;
     background-size:cover;
-    background-position: right middle;
+    background-position: left middle;
     background-attachment:fixed;
     padding:16vw 4vw;
 }
